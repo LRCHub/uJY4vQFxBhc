@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ジェラシー",
+  "base_artist": "冨岡 愛",
+  "createdAt": "2026-01-13T20:52:46.546666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジェラシー ジェラシー",
+      "artist": "モーニング娘。'17",
+      "has_synced": false,
+      "path": "select/01_ジェラシー_ジェラシー_モーニング娘。'17.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジェラシー ジェラシー",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/02_ジェラシー_ジェラシー_モーニング娘。.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジェラシー",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/03_ジェラシー_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジェラシー",
+      "artist": "a子",
+      "has_synced": true,
+      "path": "select/04_ジェラシー_a子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジェラシー",
+      "artist": "宮本笑里",
+      "has_synced": false,
+      "path": "select/05_ジェラシー_宮本笑里.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジェラシー・ジェラシー",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/06_ジェラシー・ジェラシー_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジェラシー",
+      "artist": "Mr․Children",
+      "has_synced": true,
+      "path": "select/07_ジェラシー_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジェラシー",
+      "artist": "井上陽水",
+      "has_synced": true,
+      "path": "select/08_ジェラシー_井上陽水.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "JEALOUSY(ジェラシー)",
+      "artist": "陈慧娴(プリシラ·チャン)",
+      "has_synced": false,
+      "path": "select/09_JEALOUSY(ジェラシー)_陈慧娴(プリシラ·チャン).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ジェラシー ジェラシー (23 Ver.)",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/10_ジェラシー_ジェラシー_(23_Ver.)_モーニング娘。.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ジェラシー - Remastered 2018",
+      "artist": "Yosui Inoue",
+      "has_synced": true,
+      "path": "select/11_ジェラシー_-_Remastered_2018_Yosui_Inoue.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェラシー",
+      "artist": "冨岡愛",
+      "has_synced": false,
+      "path": "select/pl_01_ジェラシー_冨岡愛.txt"
+    }
+  ]
+}
